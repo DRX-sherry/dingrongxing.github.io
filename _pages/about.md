@@ -48,7 +48,7 @@ I am open to exploring a wide range of topics with others. Please feel free to c
 <span class='anchor' id='selected-publications'></span>
 # 📝 Selected Publications (\* Equal Contribution, ✉ Corresponding Author)
 
-## Embodied Perception 
+## Spatial Intelligence
 
 <div class='paper-box'>
   <div class='paper-box-image' style="flex: 0.3; min-width: 200px;">

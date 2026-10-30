@@ -72,6 +72,24 @@ Rongxing Ding\*, Hongyu Qu\*, Xinguang Xiang✉, Pengpeng Li and Xiangbo Shu✉
   </div>
 </div>
 
+<div class='paper-box'>
+  <div class='paper-box-image' style="flex: 0.3; min-width: 200px;">
+    <div>
+      <div class="badge">Under Review</div>
+      <img src="{{ '/images/HPSSG.png' | relative_url }}" alt="HPSSG" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1" style="flex: 0.7; padding-left: 20px;">
+
+Hierarchical Prototype Learning for 3D Scene Graph Generation from RGB-D Sequences
+
+Rongxing Ding
+
+*Manuscript under review*, 2026
+
+  </div>
+</div>
+
 ## Embodied AI
 
 <div class='paper-box'>
@@ -128,29 +146,11 @@ Rong-xing Ding, Yi-Han Xu✉, Jie Liu, Wen Zhou, and Chen Chen
 
 # 🛎 Academic Service
 
-<!-- **Area Chair (AC):**
-- International Conference on Learning Representations (ICLR 2026)
-- International Conference on Machine Learning (ICML 2027, invited) -->
-
 **Journal Reviewer:**
 
-<!-- - International Journal of Computer Vision (IJCV) -->
 - IEEE Geoscience and Remote Sensing Letters (GRSL)
-<!-- - IEEE Transactions on Multimedia (TMM)
-- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) -->
-<!-- - Information Sciences -->
+- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 
 **Conference Reviewer:**
 
 - International Conference on Machine Learning (ICML 2026)
-
-<!-- # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->

@@ -61,7 +61,7 @@ I am open to exploring a wide range of topics with others. Please feel free to c
 
 [Learning Gaussian Mixture-distributed Prototypes for 3D Scene Graph Generation from RGB-D Sequences](https://openreview.net/pdf?id=PgcMxkhzoG)
 
-Rongxing Ding\*, Hongyu Qu\*, Xinguang Xiang✉, Pengpeng Li and Xiangbo Shu✉
+**Rongxing Ding**\*, Hongyu Qu\*, Xinguang Xiang✉, Pengpeng Li and Xiangbo Shu✉
 
 *Forty-third International Conference on Machine Learning* (**ICML**), 2026
 
@@ -83,7 +83,7 @@ Rongxing Ding\*, Hongyu Qu\*, Xinguang Xiang✉, Pengpeng Li and Xiangbo Shu✉
 
 Hierarchical Prototype Learning for 3D Scene Graph Generation from RGB-D Sequences
 
-Rongxing Ding
+**Rongxing Ding**
 
 *Manuscript under review*, 2026
 
@@ -103,7 +103,7 @@ Rongxing Ding
 
 [HiFOR: Hierarchical Foresight with Action-Guided World Grounding for Vision-Language-Action Model](https://arxiv.org/pdf/2610.40373)
 
-Rongxing Ding, Hongyu Qu, Kehong Wu, Xudong Wang, Fan Zhang, Xinguang Xiang and Xiangbo Shu
+**Rongxing Ding**, Hongyu Qu, Kehong Wu, Xudong Wang, Fan Zhang, Xinguang Xiang and Xiangbo Shu
 
 *arXiv preprint arXiv:2610.40373*, 2026
 
@@ -127,7 +127,7 @@ Rongxing Ding, Hongyu Qu, Kehong Wu, Xudong Wang, Fan Zhang, Xinguang Xiang and 
 
 [LSENet: Local and Spatial Enhancement to Improve the Semantic Segmentation of Remote Sensing Images](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10605831)
 
-Rong-xing Ding, Yi-Han Xu✉, Jie Liu, Wen Zhou, and Chen Chen
+**Rong-xing Ding**, Yi-Han Xu✉, Jie Liu, Wen Zhou, and Chen Chen
 
 *IEEE Geoscience and Remote Sensing Letters* (**IEEE GRSL**), 2024
 
@@ -138,6 +138,28 @@ Rong-xing Ding, Yi-Han Xu✉, Jie Liu, Wen Zhou, and Chen Chen
   </div>
 </div>
 
+## AI4Science
+
+<div class='paper-box'>
+  <div class='paper-box-image' style="flex: 0.3; min-width: 200px;">
+    <div>
+      <div class="badge">IEEE TNSM 2025</div>
+      <img src="{{ '/images/ai4science.png' | relative_url }}" alt="ai4science" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1" style="flex: 0.7; padding-left: 20px;">
+
+[A DDPG hybrid with graph scheme for resource management in digital twin-assisted biomedical cyber-physical systems](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11004000)
+
+Yi-Han Xu✉, **Rong-Xing Ding**, Xiao-Ren Xu, Ding Zhou, Wen Zhou
+*IEEE Transactions on Network and Service Management* (**IEEE TNSM**), 2025
+
+<div>
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10605831"><strong>[pdf]</strong></a>
+</div>
+
+  </div>
+</div>
 
 # 🎖 Honors and Awards
 
